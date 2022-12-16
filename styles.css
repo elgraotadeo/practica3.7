@@ -12,6 +12,9 @@ menu{
     text-align: center;
 }
 
+.menu_center{
+    display: inline-block;
+}
 article{
     background-color: orange;
 }
